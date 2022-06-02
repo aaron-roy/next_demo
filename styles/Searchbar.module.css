@@ -1,0 +1,32 @@
+
+.containerSearch {
+    width: 100%;
+    min-height: 100%;
+    padding: 5%;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+}
+
+.searchbox{
+    width: 50%;
+    margin:auto;
+}
+
+.searchbox input button{
+    width: 75%;
+    border: 2px solid white;
+    border-right: 0px;
+    font-size: 18px;
+    padding: 12px;
+    background: transparent;
+    color: white;
+}
+
+.searchbox button{
+    width: 25%;
+    background: #eee;
+    color:red;
+    float:right;
+    border-right: 0px;
+}

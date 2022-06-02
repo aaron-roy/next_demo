@@ -1,0 +1,15 @@
+.card {
+    padding: 1px 5px;
+    
+    background: #ffffff;
+    display:flex;
+    margin: 20px 10px;
+    border-left: 8px solid #ffffff;
+    
+}
+
+
+
+.card:hover {
+    border-left: 8px solid black;
+}
